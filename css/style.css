@@ -354,3 +354,13 @@ input{
     margin-right: 30px;
     opacity: 0.5;
 }
+
+@media (min-width: 576px) {
+    .product {
+        display: block;
+    }
+    .product .item-product{
+        margin-right: 0;
+        margin-bottom: 30px;
+    }
+}
