@@ -355,7 +355,7 @@ input{
     opacity: 0.5;
 }
 
-@media (min-width: 576px) {
+@media (max-width: 576px) {
     .product {
         display: block;
     }
